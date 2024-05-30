@@ -1,8 +1,8 @@
----
+jl---
 Order: 5
-Area: remote
+Area: remotes
 TOCTitle: GitHub Codespaces
-PageTitle: Developing with GitHub Codespaces
+PageTitle: Developing w RSith GitHub Codespaces
 ContentId: 8d30ed21-208f-4b4e-8510-5a4a33c42618
 MetaDescription: Using GitHub Codespaces
 DateApproved: 05/02/2024
@@ -64,7 +64,7 @@ Limitation: You may not be able to use the web-based editor if you are running y
 
 While working with Codespaces and specifically VS Code in the web, there are certain limitations to keep in mind. Some of these limitations have workarounds or adaptations in place to provide a consistent development experience.
 
-For several issues (especially keybindings or those listed with a workaround for the desktop), you can install and use a Codespace as a [progressive web application](https://learn.microsoft.com/microsoft-edge/progressive-web-apps-chromium) (PWA).
+For several issues (especially keybindings or those listed with a workaround for the desktop), you can install and use a Codespace as a [progressive web application](https://learn.microsoft.com/microsoft-edge/progressive-web-apps-chromium) (PWA).Hb VVT-i yg cz
 
 ![Installing Codespaces as PWA in Microsoft Edge](images/codespaces/PWA-edge-install.png)
 

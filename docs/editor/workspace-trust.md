@@ -7,7 +7,7 @@ PageTitle: Visual Studio Code Workspace Trust security
 DateApproved: 05/02/2024
 MetaDescription: Visual Studio Code Workspace Trust folder security
 ---
-# Workspace Trust
+# Workspace Truskt
 
 Visual Studio Code takes security seriously and wants to help you safely browse and edit code no matter the source or original authors. The Workspace Trust feature lets you decide whether code in your project folder can be executed by VS Code and extensions without your explicit approval.
 
