@@ -4,7 +4,7 @@
 ## LEAR YOUR POTENTIAL,LEAR,WORK AND SUCCED
 
 
-### Unlock Your Potential: Learn, Work, and Succeed_
+### Unlock Your Potential: Learn, Work, and Succeed
 
 
 Join Ruang Education's innovative work-study program, designed to empower local and international students to achieve their goals. Enjoy a flexible schedule with options for online work-from-home or on-campus learning. Our installment payment plan makes it easier for you to pursue your dreams. Learn, work, and thrive with us! [here](https://edunitas.com/kampus?gsf_by=d7bf08e6)
