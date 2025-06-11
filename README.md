@@ -89,5 +89,7 @@ The history of this repo before we adopted LFS can be found at [microsoft/vscode
 
 ✍🏿  [Registrasi Now](https://edunitas.com/kampus/pendaftaran?gsf_by=d7bf08e6)
 
-🙏🏿 [WhatsApp](https://wa.me/qr/W24YNYJL2NHFE1) If you want to get recommendations for your campus, feel free to contact me via WhatsApp. Thank you.🙏🏿
+🙏🏿 [WhatsApp](https://wa.me/qr/W24YNYJL2NHFE1) 
+
+If you want to get recommendations for your campus, feel free to contact me via WhatsApp. Thank you.🙏🏿
 (Mau dapat recomendasi kampusmu jangan sungkan hunbungi saya lewat WhatsApp yak Terimakasih)
