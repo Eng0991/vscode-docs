@@ -12,7 +12,7 @@ Join Ruang Education's innovative work-study program, designed to empower local 
 
 ## Fasilitas 
 
-- [LEAR YOUR POTENTIAL,LEAR,WORK AND SUCCED](#LEAR-YOUR POTENTIAL-LEARN-WORK-AND-SUCCED
+- [LEAR YOUR POTENTIAL,LEAR,WORK AND SUCCED](#LEAR-YOUR POTENTIAL-LEARN-WORK-AND-SUCCED)
 - [Fasilitas](#Fasilitas)
 - [payment method](#payment-method)
 - [Proof of payment](#Proof-of-payment)
