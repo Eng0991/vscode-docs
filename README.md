@@ -12,9 +12,9 @@ Join Ruang Education's innovative work-study program, designed to empower local 
 
 ## Fasilitas 
 
+- [LEAR YOUR POTENTIAL,LEAR,WORK AND SUCCED](#LEAR-YOUR POTENTIAL-LEARN-WORK-AND-SUCCED
 - [Fasilitas](#Fasilitas)
 - [payment method](#payment-method)
-- [](#)
 - [Proof of payment](#Proof-of-payment)
 - [About Program](#About-Program)
   - [Magang](#Magang)
@@ -22,7 +22,7 @@ Join Ruang Education's innovative work-study program, designed to empower local 
 - [Registrasi Now](#Registrasi-Now)
   - [Search On Campus](#Search-On-Campus)
   - [Lecture list](#Lecture-list)
-  -[WhatsApp](#Qhatsapp)
+  - [WhatsApp](#Qhatsapp)
 
 
 
