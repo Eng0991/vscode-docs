@@ -24,10 +24,14 @@ Join Ruang Education's innovative work-study program, designed to empower local 
   - [Lecture list](#Lecture-list)
   - [WhatsApp](#Qhatsapp)
 
+#### Payment method
+#### Proof of payment
 
+## Aboout Program
+#### Magang
+#### Work Part Time
 
-## Registrasi Now
-
+#### Registrasi Now
 
 [Clik](https://edunitas.com/kampus?gsf_by=d7bf08e6) the link below to find out about campuses with flexible schedules and installment payment plans. Interested? Please contact me first for consultation or assistance. Feel free to reach out to me on [WhatsApp](https://wa.me/qr/W24YNYJL2NHFE1) 
 
