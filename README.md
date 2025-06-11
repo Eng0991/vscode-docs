@@ -1,8 +1,4 @@
-<p align="center">
-  <img alt="🎓" src="images/logo-stable.png" width="100px" />
-  <h1 align="center">unlock your potensial Lear,work,succeed</h1>
-</p>
-
+🎓
 You've found the Visual Studio Code documentation GitHub repository, which contains the content for the [Visual Studio Code documentation](https://code.visualstudio.com/docs).
 
 Topics submitted here will be published to the [Visual Studio Code](https://code.visualstudio.com) portal.
