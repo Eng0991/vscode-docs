@@ -1,5 +1,5 @@
-                          🎓
-Lear Your Potetial,Lear,work and Succed documentation](https://code.visualstudio.com/docs).
+                          🎓 Education 
+<h4> Lear Your Potental,Learn,Work and Succed </h4> documentation](https://code.visualstudio.com/docs).
 
 Topics submitted here will be published to the [Visual Studio Code](https://code.visualstudio.com) portal.
 
