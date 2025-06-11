@@ -88,7 +88,6 @@ Silahkan Klik link dibawah ini untuk mencari Kampus,dengan jadwal fleksibel dan 
 
 ✍🏿  [Mendaftar](https://edunitas.com/kampus/pendaftaran?gsf_by=d7bf08e6)
 
-☎️ [WhatsApp](https://wa.me/qr/W24YNYJL2NHFE1) 
+🙏🏿 [WhatsApp](https://wa.me/qr/W24YNYJL2NHFE1) 
 
-Mau dapat recomendasi kampusmu hunbungi saya lewat WhatsApp yak Terimakasih 
-Publishing merged pull requests is not automatic and is initiated manually after changes have been reviewed on an internal staging server. There is no specific time guarantee for when PR updates will be available on https://code.visualstudio.com but the intent is that they will usually be live within 24 hours.
+Mau dapat recomendasi kampusmu jangan sungkan hunbungi saya lewat WhatsApp yak Terimakasih 
