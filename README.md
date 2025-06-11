@@ -1,5 +1,5 @@
                           🎓 Education 
-<center><h4><font color="#FFFF00:"> LEAR YOUR POTENTIAL,LEAR,WORK AND SUCCED</font></h4></center> (documentation](https://code.visualstudio.com/docs).
+<h4><P Style="LEAR YOUR POTENTIAL,LEAR,WORK AND SUCCED-alight:center:color:#FFFF00:>text kuning ditengah"> </P></h4> (documentation](https://code.visualstudio.com/docs).
 
 Topics submitted here will be published to the [Visual Studio Code](https://code.visualstudio.com) portal.
 
