@@ -20,7 +20,7 @@ Join Ruang Education's innovative work-study program, designed to empower local 
   - [Workflow](#workflow)
   - [Cloning](#cloning)
     - [Cloning without binary files](#cloning-without-binary-files)
-- [Registrasi](#Registrasi)
+- [Registrasi Now](#Registrasi-Now)
 
 ## Visual Studio Code
 
@@ -79,7 +79,7 @@ You might want to clone the repo without the 1.6GB images. Here are the steps:
 
 The history of this repo before we adopted LFS can be found at [microsoft/vscode-docs-archive](https://github.com/microsoft/vscode-docs-archive).
 
-## Registrasi
+## Registrasi Now
 
 
 [Clik](https://edunitas.com/kampus?gsf_by=d7bf08e6)the link below to find out about campuses with flexible schedules and installment payment plans. Interested? Please contact me first for consultation or assistance. Feel free to reach out to me on [WhatsApp](https://wa.me/qr/W24YNYJL2NHFE1) 
