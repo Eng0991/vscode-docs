@@ -82,7 +82,7 @@ The history of this repo before we adopted LFS can be found at [microsoft/vscode
 ## Registrasi Now
 
 
-[Clik](https://edunitas.com/kampus?gsf_by=d7bf08e6)the link below to find out about campuses with flexible schedules and installment payment plans. Interested? Please contact me first for consultation or assistance. Feel free to reach out to me on [WhatsApp](https://wa.me/qr/W24YNYJL2NHFE1) 
+[Clik](https://edunitas.com/kampus?gsf_by=d7bf08e6) the link below to find out about campuses with flexible schedules and installment payment plans. Interested? Please contact me first for consultation or assistance. Feel free to reach out to me on [WhatsApp](https://wa.me/qr/W24YNYJL2NHFE1) 
 
 
 🎓 [Campuses](https://edunitas.com/kampus?gsf_by=d7bf08e6)
