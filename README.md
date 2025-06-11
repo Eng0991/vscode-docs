@@ -1,5 +1,5 @@
                           🎓 Education 
-<P Style="LEAR YOUR POTENTIAL,LEAR,WORK AND SUCCED-alight:center;color:#FFFF00;>text kuning ditengah"></P>
+<P Style="text-alight:center;color:#FFFF00;>"LEAR YOUR POTENTIAL,LEAR,WORK AND SUCCED"></P>
  (documentation](https://code.visualstudio.com/docs).
 
 Topics submitted here will be published to the [Visual Studio Code](https://code.visualstudio.com) portal.
