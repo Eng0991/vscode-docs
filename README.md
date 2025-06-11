@@ -83,7 +83,6 @@ The history of this repo before we adopted LFS can be found at [microsoft/vscode
 ## Publishing
 
 Silahkan Klik link dibawah ini untuk mencari Kampus,dengan jadwal fleksibel dan biaya dapat di cicil. [here](https://edunitas.com/kampus?gsf_by=d7bf08e6 ) untuk mendaftarkan diri bila berminat silahkan Hubungi saya terlebih dahulu,untuk konsultasi atau butuh bantuan saya siap membantu.
-
-<link rel="icon"href=https://photos.app.goo.gl/KWi4Zw2tXtTCtuRs9  type="image/xicon">  >[Mendaftar](https://edunitas.com/kampus/pendaftaran?gsf_by=d7bf08e6)
+[Mendaftar](https://edunitas.com/kampus/pendaftaran?gsf_by=d7bf08e6)
 
 Publishing merged pull requests is not automatic and is initiated manually after changes have been reviewed on an internal staging server. There is no specific time guarantee for when PR updates will be available on https://code.visualstudio.com but the intent is that they will usually be live within 24 hours.
