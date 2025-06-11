@@ -81,11 +81,13 @@ The history of this repo before we adopted LFS can be found at [microsoft/vscode
 
 ## Publishing
 
-Silahkan Klik link dibawah ini untuk mencari Kampus,dengan jadwal fleksibel dan biaya dapat di cicil. [here](https://edunitas.com/kampus?gsf_by=d7bf08e6 ) untuk mendaftarkan diri bila berminat silahkan Hubungi saya terlebih dahulu,untuk konsultasi atau butuh bantuan saya siap membantu hubungi saya di [WhatsApp](https://wa.me/qr/W24YNYJL2NHFE1) saya 🙏🏿
 
-🎓 [Cari Kampus](https://edunitas.com/kampus?gsf_by=d7bf08e6)
+[Clik](https://edunitas.com/kampus?gsf_by=d7bf08e6)the link below to find out about campuses with flexible schedules and installment payment plans. Interested? Please contact me first for consultation or assistance. Feel free to reach out to me on [WhatsApp](https://wa.me/qr/W24YNYJL2NHFE1) 
 
-✍🏿  [Mendaftar](https://edunitas.com/kampus/pendaftaran?gsf_by=d7bf08e6)
+
+🎓 [Campuses](https://edunitas.com/kampus?gsf_by=d7bf08e6)
+
+✍🏿  [Registrasi Now](https://edunitas.com/kampus/pendaftaran?gsf_by=d7bf08e6)
 
 🙏🏿 [WhatsApp](https://wa.me/qr/W24YNYJL2NHFE1) 
 
