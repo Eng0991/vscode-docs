@@ -9,7 +9,6 @@
 
 Join Ruang Education's innovative work-study program, designed to empower local and international students to achieve their goals. Enjoy a flexible schedule with options for online work-from-home or on-campus learning. Our installment payment plan makes it easier for you to pursue your dreams. Learn, work, and thrive with us!_ [here](https://edunitas.com/kampus?gsf_by=d7bf08e6).
 
->**Note**: The vscode-docs repository uses [Git LFS](https://git-lfs.github.com/) (Large File Storage) for storing binary files such as images and `.gif`s. If you are contributing or updating images, please enable Git LFS per the instructions in the [Contributing](#cloning) section below.
 
 ## Index
 
