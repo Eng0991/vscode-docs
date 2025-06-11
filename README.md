@@ -12,7 +12,7 @@ Join Ruang Education's innovative work-study program, designed to empower local 
 
 ## Fasilitas 
 
-- [Firts]{#Firts)
+- [Firts](#Firts)
 - [Fasilitas](#Fasilitas)
 - [payment method](#payment-method)
 - [Proof of payment](#Proof-of-payment)
