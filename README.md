@@ -1,5 +1,5 @@
                           🎓 Education 
-<h3>LEAR YOUR POTENTIAL,LEAR,WORK AND SUCCED</h3>
+<h3>[LEAR YOUR POTENTIAL,LEAR,WORK AND SUCCED](https://edunitas.com/kampus?gsf_by=d7bf08e6)</h3>
 
 Topics submitted here will be published to the [Visual Studio Code](https://code.visualstudio.com) portal.
 
