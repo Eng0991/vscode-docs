@@ -20,7 +20,7 @@ Join Ruang Education's innovative work-study program, designed to empower local 
   - [Workflow](#workflow)
   - [Cloning](#cloning)
     - [Cloning without binary files](#cloning-without-binary-files)
-- [Publishing](#publishing)
+- [Daftar](#publishing)
 
 ## Visual Studio Code
 
